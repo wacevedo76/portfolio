@@ -46,7 +46,8 @@ body {
   max-width: 1020px;
   overflow-y: auto;
 }
-/* Portrait --------------------------------------------------- */
+
+/* Portrait ---------------------------------------------------- */
 @media screen and (min-height: 992px) and (orientation:portrait) {
  /* start of desktop styles */
 }
@@ -62,6 +63,7 @@ body {
   height: 95vh;
  }
 }
+
 /* Landscape -------------------------------------------------- */
 @media screen and (min-width: 992px) and (orientation:landscape) {
  /* start of desktop styles */
